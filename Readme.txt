@@ -1,1 +1,1 @@
-Programa en Java de un simulador de Poker
+Programa en Java que simula una partida de Poker
